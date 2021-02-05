@@ -48,7 +48,9 @@
     "arrow-body-style": "off",
     "implicit-arrow-linebreak": "off",
     "linebreak-style": "off",
-    "jsx-a11y/anchor-is-valid": "off"
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/react-in-jsx-scope": "off",
+    "import/no-extraneous-dependencies": "off"
   },
   "settings": {
     "import/resolver": {
